@@ -1,0 +1,4 @@
+ls -l
+cat /etc/os-release
+date
+time
