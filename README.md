@@ -1,2 +1,1 @@
-# DevOpsClass
-This is test repository for my DevOps class
+This is my firsr test reposotary. I am confident now.
